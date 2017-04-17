@@ -19,3 +19,6 @@ README.md 再編集
 $ git add README.md
 $ git commit
 
+$ git push origin test-branch
+
+GitHub の Webインタフェースから pull request を実施
