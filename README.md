@@ -10,4 +10,12 @@ $ git commit
 
 $ git checkout -b test-branch
 
-README.md 再編集	
+README.md 再編集
+$ git add README.md
+$ git commit
+
+
+README.md 再編集
+$ git add README.md
+$ git commit
+
